@@ -8,10 +8,11 @@ A webport of the game [Super Mario World Remastered by JHDev2006
 
 - Debug mode is enabled by default (Kinda), Press N in game to fly
 
-I didnt find anything else wrong so yeah
+I didnt find anything else wrong but if you do report it in the issues tab pls so i can fix it
+
 have fun ig
 
-# Credits (From the OG game files)
+# Credits.txt (From the OG game files)
 
 --Super Mario World Remastered
 
