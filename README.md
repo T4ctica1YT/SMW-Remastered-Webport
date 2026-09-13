@@ -4,6 +4,8 @@ A webport of the game [Super Mario World Remastered by JHDev2006
 
 ported by me
 
+Dont use the pages link because it wont find the Base rom
+
 # Bugs
 
 - Some audio issues but i only got them to happen once so not really an issue
