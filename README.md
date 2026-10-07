@@ -2,9 +2,9 @@
 A webport of the game [Super Mario World Remastered by JHDev2006
 ](https://github.com/JHDev2006/Super-Mario-World-Remastered-Public) 
 
-ported by me
+ported by me (T4ctica1)
 
-Dont use the pages link because it wont find the Base rom
+I fixed the pages link, so if you have used this before and noticed it doesn't work then it should now (As well as any site that Iframes the Files / website from elsewhere)
 
 # Bugs
 
